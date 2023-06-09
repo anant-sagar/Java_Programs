@@ -1,5 +1,7 @@
 package Recurssion;
 
+//Find a sum of digit of a given positive integer number using recurssion
+
 public class SumOfDigits {
 
     public static void main(String[] args) {
